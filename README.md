@@ -48,21 +48,16 @@ The goal was to create a **clean, responsive, and interactive dashboard** for st
 
 ## 📸 Preview
 
-![Dashboard Preview](./preview-image.png)  
-*(You can replace this with your actual screenshot)*
+![Dashboard Preview](Screenshot50.png)  
 
----
 
-## 🔗 Demo Video
 
-[Watch Demo on LinkedIn](https://www.linkedin.com/...)  
-*(or insert YouTube/Drive link if hosted elsewhere)*
 
 ---
 
 ## 🙌 Let's Connect
 
-If you find this helpful, feel free to give it a ⭐ and connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)!  
+If you find this helpful, feel free to give it a ⭐ and connect with me on [LinkedIn](www.linkedin.com/in/aditi-sharma-103232271!) 
 I’m always open to feedback, collaboration, and new opportunities.
 
 ---
